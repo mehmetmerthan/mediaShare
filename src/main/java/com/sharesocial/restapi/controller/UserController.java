@@ -1,9 +1,10 @@
-package com.shareInsta.restApi.controller;
+package com.sharesocial.restapi.controller;
 
-import com.shareInsta.restApi.business.UserService;
-import com.shareInsta.restApi.entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+
+import com.sharesocial.restapi.model.User;
+import com.sharesocial.restapi.service.UserService;
 
 import java.util.List;
 

@@ -1,7 +1,8 @@
-package com.shareInsta.restApi.dataAccess;
+package com.sharesocial.restapi.dao;
 
-import com.shareInsta.restApi.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.sharesocial.restapi.model.User;
 
 import java.util.List;
 

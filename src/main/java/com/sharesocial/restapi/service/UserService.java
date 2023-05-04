@@ -1,11 +1,11 @@
-package com.shareInsta.restApi.business;
+package com.sharesocial.restapi.service;
 
-//import com.shareInsta.restApi.dataAccess.LocationDao;
-import com.shareInsta.restApi.dataAccess.UserDao;
-import com.shareInsta.restApi.entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Service;
+
+import com.sharesocial.restapi.dao.UserDao;
+import com.sharesocial.restapi.model.User;
 
 import java.util.List;
 import java.util.Optional;

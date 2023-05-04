@@ -1,4 +1,4 @@
-package com.shareInsta.restApi.entities;
+package com.sharesocial.restapi.model;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

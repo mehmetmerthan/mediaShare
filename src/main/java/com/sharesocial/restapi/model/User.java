@@ -1,4 +1,4 @@
-package com.shareInsta.restApi.entities;
+package com.sharesocial.restapi.model;
 
 import jakarta.annotation.Nonnull;
 import jakarta.persistence.*;

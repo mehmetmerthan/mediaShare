@@ -1,4 +1,4 @@
-package com.shareInsta.restApi;
+package com.sharesocial.restapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
